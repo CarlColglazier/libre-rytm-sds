@@ -1,0 +1,3 @@
+[submodule "send-sds"]
+	path = send-sds
+	url = git@github.com:CarlColglazier/send-sds.git
