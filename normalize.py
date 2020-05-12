@@ -9,7 +9,7 @@ import os
 norm = FFmpegNormalize(
     normalization_type='peak',
     target_level=-3.0,
-    audio_codec='pcm_f32le',
+    audio_codec='pcm_s24le',
     sample_rate=48000)
 
 print(sys.argv[1])
