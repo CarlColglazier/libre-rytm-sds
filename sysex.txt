@@ -1,0 +1,7 @@
+This is a work in progress, saved for my own records.
+
+F0 = sysex start
+00 20 3C = elektron
+?? = device
+...
+F7 = sysex stop
